@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "portfolio-walabouguera",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
